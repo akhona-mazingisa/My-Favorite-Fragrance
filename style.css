@@ -12,6 +12,10 @@ p {
     font-size: 18px;
 }
 
+a {
+    text-decoration: underline;
+}
+
 img {
     display: block;
     padding: 80px;
