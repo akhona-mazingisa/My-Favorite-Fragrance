@@ -2,8 +2,9 @@ body {
     background-color: #fce38a;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
+    padding: 10px;
 }
 
 p {
